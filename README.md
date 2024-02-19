@@ -3,3 +3,4 @@ En el presente repositorio se adjunta el notebook trabajado en colab y un PDF qu
 
 ## Presentado por:
 Condori Gutierrez, Rodrigo Bernardo
+Ochoa Chipile, Alvaro Uber
